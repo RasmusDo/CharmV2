@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Hem",
+        "icon": "bi-house-fill",
+        "path": "/"
+    },
+    {
+        "title": "Tikar",
+        "icon": "bi-info-circle-fill",
+        "path": "./tikar",
+        "childrens": [
+            {
+                "title": "Lady Isadora",
+                "path": "/ladyIsadora"
+            },
+            {
+                "title": "Lady Alice",
+                "path": "/ladyAlice"
+            }
+        ]
+    },
+    {
+        "title": "Valpar",
+        "path": "./valpar",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "A-Kullen",
+                "path": "/Akullen"
+            },
+            {
+                "title": "B-kullen",
+                "path": "/Bkullen"
+            }
+        ]
+    },
+    {
+        "title": "Instagram",
+        "icon": "bi-instagram",
+        "path": "/instagram"
+    },
+    {
+        "title": "Kontakt",
+        "icon": "bi-person-lines-fill",
+        "path": "/kontakt"
+    }
+
+]
